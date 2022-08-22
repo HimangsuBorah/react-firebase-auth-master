@@ -19,10 +19,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 _**Note**: Before running `npm start` do place the relevant environment variables in the `.env.local` file for firebase configuration._
 
-## Learn More
-
-You can learn more about this project on our [Youtube channel yoursTruly](https://youtube.com/c/yourstruly267).
-
-## Author
-
-[Truly Mittal](https://trulymittal.com)
